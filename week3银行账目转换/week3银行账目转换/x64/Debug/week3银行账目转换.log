@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\lidin\source\repos\lushisi258\DS_SimplePrograms\week3大小写记账互换\main.cpp(41): warning C4715: 'ifCnum': not all control paths return a value
+C:\Users\lidin\source\repos\lushisi258\DS_SimplePrograms\week3大小写记账互换\main.cpp(27): warning C4715: 'ifAnum': not all control paths return a value
+C:\Users\lidin\source\repos\lushisi258\DS_SimplePrograms\week3大小写记账互换\main.cpp(61): error C4716: 'trans': must return a value
